@@ -1,0 +1,4 @@
+fastapi
+python-dotenv==0.18.0
+sqlalchemy
+uvicorn[standard]
